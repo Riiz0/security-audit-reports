@@ -36,8 +36,6 @@ This repository is a curated archive of smart contract security audits conducted
 | I      | Informational |
 | G      | Gas           |
 
-(*) - Critical category was introduced with DeXe audit 2023-09-14. Prior to this all Critical findings were listed as High.
-
 ## Contact Us
 
 For inquiries, feedback, or to contribute to this repository, please reach out to us via Github.
