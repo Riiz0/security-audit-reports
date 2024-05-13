@@ -21,8 +21,8 @@ This repository is a curated archive of smart contract security audits conducted
 
 | Publish    | Audit Start | Audit End  | Report                                                                               | C   | H   | M   | L   | I   | G   |
 | ---------- | ----------- | ---------- | ------------------------------------------------------------------------------------ | --- | --- | --- | --- | --- | --- |
-| 2024-05-10 | 2024-04-26  | 2023-05-02 | [PasswordStore](./Audit Reports/2024-05-02-passwordstore-audit.pdf)                  | 0   | 2   | 0   | 1   | 1   | 0   |
-| 2024-05-10 | 2023-05-03  | 2023-05-09 | [Puppy Raffle](./Audit Reports/2024-05-09-puppy-raffle-audit.pdf)                    | 0   | 3   | 4   | 1   | 8   | 0   |
+| 2024-05-10 | 2024-04-26  | 2023-05-02 | [PasswordStore](./Audit%20Reports/2024-05-02-passwordstore-audit.pdf)                | 0   | 2   | 0   | 1   | 1   | 0   |
+| 2024-05-10 | 2023-05-03  | 2023-05-09 | [Puppy Raffle](./Audit%20Reports/2024-05-09-puppy-raffle-audit.pdf)                  | 0   | 3   | 4   | 1   | 8   | 0   |
 |            | **Total**   |            | _(2 reports)_                                                                        | 0   | 5   | 4   | 2   | 9   | 0   |
 
 ## Legend
