@@ -1,8 +1,7 @@
 # Smart Contract Security Audit Reports
 
-<img src="./Riiz0_Logo.png" alt="Riiz0" width="200" >
-    
-    
+<img src="./501stAudits.png" alt="Riiz0" width="200">
+
 Welcome to our repository dedicated to smart contract security audit reports. This collection exclusively features PDF files of smart contract security audit reports conducted by CodeHawks as part of our First Flight Audit Reports and Competitive Audit Reports. The reports are organized following the naming convention `("YEAR"-"MONTH"-"DAY")-"NAME"-Audit.pdf`.
 
 ## Overview

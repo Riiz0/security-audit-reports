@@ -25,7 +25,7 @@
 </head>
 <body>
 <div class="full-page">
-    <img src="./logo.png" alt="Logo">
+    <img src="./501stAudits.png" alt="Logo">
     <div>
     <h1> (`NAME`) Audit Report</h1>
     <h3>Version 0.1</h2>
@@ -38,7 +38,7 @@
 </body>
 </html>
 
-<!-- Your report starts here! -->
+<!-- report starts here! -->
 # `<Name> Audit Report`
 
 Prepared by:
@@ -65,6 +65,9 @@ Assisting Auditors:
 - [Executive Summary](#executive-summary)
   - [Issues found](#issues-found)
 - [Findings](#findings)
+  - [Critical](#critical)
+    - [\[C-1\] `<Title>&<What it does>`](#c-1-titlewhat-it-does)
+- [Findings](#findings-1)
   - [High](#high)
     - [\[H-1\] `<Title>&<What it does>`](#h-1-titlewhat-it-does)
   - [Medium](#medium)
@@ -122,6 +125,7 @@ The findings described in this document correspond the following commit hash:
 
 | Severity | Number of issues found |
 | -------- | ---------------------- |
+| Critical | 0                      |
 | High     | 0                      |
 | Medium   | 0                      |
 | Low      | 0                      |
@@ -130,10 +134,22 @@ The findings described in this document correspond the following commit hash:
 | Total    | 0                      |
 
 # Findings
+## Critical
+### [C-1] `<Title>&<What it does>`
+
+**Summary:**
+**Vulnerability Details:**
+**Impact:**
+**Proof of Concept:**
+**Recommended Mitigation:**
+
+
+# Findings
 ## High
 ### [H-1] `<Title>&<What it does>`
 
-**Description:**
+**Summary:**
+**Vulnerability Details:**
 **Impact:**
 **Proof of Concept:**
 **Recommended Mitigation:**
@@ -142,7 +158,8 @@ The findings described in this document correspond the following commit hash:
 ## Medium
 ### [M-1] `<Title>&<What it does>`
 
-**Description:**
+**Summary:**
+**Vulnerability Details:**
 **Impact:**
 **Proof of Concept:**
 **Recommended Mitigation:**
@@ -151,7 +168,8 @@ The findings described in this document correspond the following commit hash:
 ## Low 
 ### [L-1] `<Title>&<What it does>`
 
-**Description:**
+**Summary:**
+**Vulnerability Details:**
 **Impact:**
 **Proof of Concept:**
 **Recommended Mitigation:**
@@ -160,16 +178,16 @@ The findings described in this document correspond the following commit hash:
 ## Informational
 ### [I-1] `<Title>&<What it does>`
 
-**Description:**
+**Summary:**
+**Vulnerability Details:**
 **Impact:**
-**Proof of Concept:**
 **Recommended Mitigation:**
 
 
 ## Gas 
 ### [G-1] `<Title>&<What it does>`
 
-**Description:**
+**Summary:**
+**Vulnerability Details:**
 **Impact:**
-**Proof of Concept:**
 **Recommended Mitigation:**
